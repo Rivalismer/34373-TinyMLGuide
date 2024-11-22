@@ -1,3 +1,4 @@
-#test_variable.tflite
-#model.tflite
+test_variable.tflite
+model.tflite
+test.sh
 TinyMLGuide/
